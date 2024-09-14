@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Welcome to PeakViewInnovators!
+subtitle: We're doing a great graduation project.
+author: Jieming Zhang, Kunwei Huang, Hanqi Ju
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
