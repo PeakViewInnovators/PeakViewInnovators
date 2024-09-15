@@ -5,11 +5,11 @@ subtitle: We're doing a great graduation project.
 author: Jieming Zhang, Kunwei Huang, Hanqi Ju
 categories: jekyll
 banner:
-  video:[ https://thumbnail0.baidupcs.com/thumbnail/deb163731u5f8fd1341eac665f28cbf3?fid=1893106513-250528-525841008087200&time=1726290000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FAhMbuAETdwSue8skM2IR5cNsyk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=209453332767879480&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video](https://res.cloudinary.com/dcmukymz2/image/upload/v1726414117/sgzzhxnipwf18feo2huk.jpg)
+  video: https://thumbnail0.baidupcs.com/thumbnail/deb163731u5f8fd1341eac665f28cbf3?fid=1893106513-250528-525841008087200&time=1726290000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FAhMbuAETdwSue8skM2IR5cNsyk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=209453332767879480&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video](https://res.cloudinary.com/dcmukymz2/image/upload/v1726414117/sgzzhxnipwf18feo2huk.jpg)
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: [https://thumbnail0.baidupcs.com/thumbnail/deb163731u5f8fd1341eac665f28cbf3?fid=1893106513-250528-525841008087200&time=1726290000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FAhMbuAETdwSue8skM2IR5cNsyk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=209453332767879480&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video](https://res.cloudinary.com/dcmukymz2/image/upload/v1726414117/sgzzhxnipwf18feo2huk.jpg)
+  image: https://thumbnail0.baidupcs.com/thumbnail/deb163731u5f8fd1341eac665f28cbf3?fid=1893106513-250528-525841008087200&time=1726290000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FAhMbuAETdwSue8skM2IR5cNsyk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=209453332767879480&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video](https://res.cloudinary.com/dcmukymz2/image/upload/v1726414117/sgzzhxnipwf18feo2huk.jpg)
   opacity: 0.618
   background: "#000"
   height: "100vh"
