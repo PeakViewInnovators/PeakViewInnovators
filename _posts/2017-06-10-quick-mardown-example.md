@@ -8,6 +8,6 @@ tags: [idea]
 top: 2
 ---
 
-![banner](https://res.cloudinary.com/dcmukymz2/image/upload/v1727699078/awfapioxhvmletjus4ua.jpg）
+![banner](https://res.cloudinary.com/dcmukymz2/image/upload/v1727699078/awfapioxhvmletjus4ua.jpg)
 
 
